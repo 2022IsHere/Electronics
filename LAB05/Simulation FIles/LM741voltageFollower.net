@@ -1,0 +1,9 @@
+* C:\Users\mrfra\Downloads\Embedded labs\ele_lab_exercises\LAB5\LM741voltageFollower.asc
+XU1 in out N001 N002 out LM741
+V2 N001 0 15 Rser=0
+V1 in 0 PULSE(-15 15 0 1u 1u 500u)
+V3 0 N002 15
+.tran 16m
+.lib LM741.lib
+.backanno
+.end
