@@ -1,5 +1,4 @@
-# ELE_Lab_exercises
-
+# Electronics
 
 This repository contains Lab exercises for TUAS Electronics (for embedded SW) course.
 
