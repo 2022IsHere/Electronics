@@ -1,5 +1,5 @@
 # Electronics
 
-This repository contains Lab exercises for TUAS Electronics (for embedded SW) course.
+This repository contains embedded software and IoT work.
 
-Please, make a fork of this repository and share it to your teacher, <b>jarno.tuominen</b> with <b>reporter</b> rights.
+Please, make a fork of this repository and share it to your friends.
